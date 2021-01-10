@@ -9,7 +9,7 @@ class ApplicationClass : Application() {
     override fun onCreate() {
         super.onCreate()
         /// TODO: Add OneSignal initialization here
-
+///ß
         /// Logging set to help debug issues, remove before releasing your app.
         OneSignal.setLogLevel(OneSignal.LOG_LEVEL.VERBOSE, OneSignal.LOG_LEVEL.NONE)
 
